@@ -1,12 +1,9 @@
 # **🐶 포포체인 ( 믿을 수 있는 동물 의료 기록 추적 서비스 )**
 
 👇포포체인 소개 및 시연 영상👇
-
-<a href="">
-    <img src="" title="시연영상으로 이동" width="70%" height="70%"/>
-</a>
-
 <br>
+https://youtu.be/9AmmoUADeQM
+
 
 # 목차
 
